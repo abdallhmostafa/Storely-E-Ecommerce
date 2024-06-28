@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1043055639417",
+    "project_id": "storely-app",
+    "storage_bucket": "storely-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1043055639417:android:bf4b685f9e058bef9ccda8",
+        "android_client_info": {
+          "package_name": "com.example.storely"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1043055639417-8rs2u98vjhju6ffss7jeblml2tcu9g4d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzi1QmaDdI-N_jnp23fvRU1ZmPKpdDnoU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1043055639417-8rs2u98vjhju6ffss7jeblml2tcu9g4d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
