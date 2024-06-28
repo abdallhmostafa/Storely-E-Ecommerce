@@ -2,7 +2,7 @@
 
 ## It's E-commerce app to buy and sell products
 ### Tools: FirebaseStorage - FirebaseAuth - Authentication - MVC Architecture 
-![Screenshot_1719592968](https://github.com/abdallhmostafa/Storely-E-Ecommerce/assets/81104114/7fa8dd3a-7724-4ccd-878b-e149bb30a82e)
+![Screenshot_1719592968](https://github.com/abdallhmostafa/Storely-E-Ecommerce/assets/81104114/7fa8dd3a-7724-4ccd-878b-e149bb30a82e=x250))
 ![Screenshot_1719592963](https://github.com/abdallhmostafa/Storely-E-Ecommerce/assets/81104114/fc62e3db-a2a0-4e57-b3fc-7f93a0385623)
 ![Screenshot_1719592949](https://github.com/abdallhmostafa/Storely-E-Ecommerce/assets/81104114/e4a75274-cc0d-4609-aa2f-227242fd08b3)
 ![Screenshot_1719593114](https://github.com/abdallhmostafa/Storely-E-Ecommerce/assets/81104114/acae6dc5-216d-4dd4-a553-301ee83ff490)
